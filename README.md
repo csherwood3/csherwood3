@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csherwood3
 - 👀 I’m interested in beisbol
-- 🌱 I’m currently learning python/SQL
+- 🌱 I’m currently learning comp sci basics (data strucs + algos), python, and SQL
 - 💞️ I’m looking to collaborate on something, idk yet
 - 📫 How to reach me sherwcha@oregonstate.edu
 
